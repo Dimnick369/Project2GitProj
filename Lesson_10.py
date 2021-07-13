@@ -452,9 +452,9 @@ print(dir())
 # from TestPackage.MoreFunc import *
 # print(dir())
 
-print(dir())
-from TestPackage.MoreFunc import k1 as NewF
-print(dir())
-NewF()
+# print(dir())
+# from TestPackage.MoreFunc import k1 as NewF
+# print(dir())
+# NewF()
 
 # endregion
